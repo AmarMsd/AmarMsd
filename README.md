@@ -20,6 +20,6 @@ Reach Me On
 <hr>
 <p align=left>
 <a href="https://github.com/AmarMsd">
-  <img margin-right="30em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sudo-13&layout=compact&langs_count=8&theme=algolia"/>
+  <img margin-right="30em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmarMsd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
