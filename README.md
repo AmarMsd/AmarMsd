@@ -2,7 +2,7 @@
 
 Let me introduce my self, my name **Amar Musaddad**. 
 
- I am **Student in Indonesian Education of University.**
+I am a **Bachelor of Computer Science graduate from the Indonesian Education University**.
  
 If you are interested in getting to know me 
 
@@ -12,7 +12,7 @@ Reach Me On
   <img align="left" alt="Amar Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="mailto:amarmsd@upi.edu">
+<a href="mailto:amarmsd1212@gmail.com">
   <img align="left" alt="Amar Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
