@@ -1,11 +1,5 @@
 <h1>H a l l o! :speech_balloon:</h1>
 
-Let me introduce my self, my name **Amar Musaddad**. 
-
-I am a **Bachelor of Computer Science graduate from the Indonesian Education University**.
- 
-If you are interested in getting to know me 
-
 Reach Me On
 
 <a href="https://www.linkedin.com/in/amar-musaddad-423240231/">
